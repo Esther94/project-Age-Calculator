@@ -38,7 +38,7 @@
     .Agecal2{
         display: flex;
         flex-direction: column;
-        padding-bottom: 30%;
+        padding-bottom: 37%;
         padding-top: 3%;
         background-color: #11A79E;
         width: 30%;
@@ -67,7 +67,6 @@
         background-color: white;
         border-radius: 25px;
         margin-bottom: 8%;
-        /* height: 140%; */
         padding-left: 3%;
         padding-top: 3%;
         padding-bottom: 3%;
@@ -78,7 +77,6 @@
         background-color: white;
         border-radius: 25px;
         margin-bottom: 6%;
-        /* height: 140%; */
         padding-left: 3%;
         padding-top: 3%;
         padding-bottom: 3%;
@@ -100,7 +98,7 @@
     .Agecal3{
         display: flex;
         flex-direction: column;
-        padding-bottom: 35%;
+        padding-bottom: 30%;
         padding-top: 3%;
         background-color: #11A79E;
         width: 30%;
@@ -114,7 +112,6 @@
         display: flex;
         float: left;
         flex-direction: column;
-        /* border-radius: 20px; */
         width: 80%;
         height: 30px;
         padding-left: 10%;
@@ -145,6 +142,7 @@
         border-bottom-style: groove;
         background-color: #11a79E;
     }
+
     .set{
         background-color:wheat;
         color: rgb(56, 55, 55);
@@ -165,12 +163,6 @@
     .thatold{
         color: white;
     }
-
-    /* .hidden{
-        display: none;
-    }
-
-         */
 
 
     
