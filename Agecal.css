@@ -1,3 +1,8 @@
+.backgroundimg{
+    background-image: url(My\ Beach.jpg);
+margin: 40px;
+}
+
 .parent{
     padding-left: 27%;
 }
