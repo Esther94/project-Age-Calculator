@@ -1,5 +1,5 @@
 # Project-Age-Calculator
-This project tells you how many days you have lived on earth. This is an assignment from my facilitators Mr Godwin Nwachuwu and Mrs Chioma Nwachuku to build an age calculator that tells you the numbers of days lived on earth, once you input your name and your age.
+This project tells you how many days you have lived on earth. This is an assignment from my facilitators Mr Godwin Nwachuwu and Mrs Chioma Nwachuku to build an age calculator that tells you the numbers of days lived on earth, once you input your name and your age. This Age calculator does not calculate for leap day.
  
  # Built with
  * HTML
