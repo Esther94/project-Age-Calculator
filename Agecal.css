@@ -1,6 +1,6 @@
 .backgroundimg{
-    background-image: url(My\ Beach.jpg);
-margin: 40px;
+    background-image: url(MyBeach.jpg);
+margin: 50px;
 }
 
 .parent{
@@ -109,12 +109,12 @@ margin: 40px;
         flex-direction: column;
         margin-left: 10%;
         padding-bottom: 30%;
-        padding-top: 3%;
+        padding-top: 1%;
         background-color: #11A79E;
         width: 30%;
         height: 90%;
         box-shadow: +3px +3px +3px +3px rgb(228, 219, 219);
-        margin-bottom: 20px;
+        margin-bottom: 10px;
         margin-top: 10%;
     }
 
@@ -126,7 +126,7 @@ margin: 40px;
         height: 30px;
         padding-left: 10%;
         padding-right:7%;
-        padding-bottom: 20%;
+        padding-bottom: 0%;
     }
 
     .Age{
