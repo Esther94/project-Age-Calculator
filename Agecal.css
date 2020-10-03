@@ -1,17 +1,18 @@
 .backgroundimg{
-    background-image: url(MyBeach.jpg);
-margin: 50px;
+    background-image: url(nature1.jpg);
+    width: 1366px;
+    height: 768px;
 }
 
 .parent{
-    padding-left: 27%;
+    padding-left: 30%;
 }
 
 .Agecal1{
     background-color: #11A79E;
-    margin-bottom: 4%;
+    margin-bottom: 30%;
     margin-top: 18%;
-    margin-left: 10%;
+    margin-left: 15%;
     display: block;
     width:30%;
     text-align: center;
@@ -46,7 +47,8 @@ margin: 50px;
         display: flex;
         flex-direction: column;
         margin-top: 10%;
-        margin-left: 10%;
+        margin-bottom: 30%;
+        margin-left: 15%;
         padding-bottom: 30%;
         padding-top: 3%;
         background-color: #11A79E;
@@ -107,14 +109,14 @@ margin: 50px;
     .Agecal3{
         display: flex;
         flex-direction: column;
-        margin-left: 10%;
-        padding-bottom: 30%;
+        margin-left: 15%;
+        padding-bottom: 35%;
         padding-top: 1%;
         background-color: #11A79E;
         width: 30%;
         height: 90%;
         box-shadow: +3px +3px +3px +3px rgb(228, 219, 219);
-        margin-bottom: 10px;
+        margin-bottom: 30%;
         margin-top: 10%;
     }
 
