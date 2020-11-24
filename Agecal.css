@@ -5,19 +5,20 @@
 }
 .backgroundimg{
   background-image: url(nature1.jpg);
+  background-size: cover;
 }
 
 .parent{
-  padding-left: 30%;
+  padding-left: 27%;
 }
 
 .Agecal1{
-  background-color: #11A79E;
-  margin-bottom: 30%;
-  margin-top: 18%;
-  margin-left: 15%;
+  background-color:#11A79E;
+  margin-bottom: 4rem;
+  margin-top: 18rem;
+  margin-left: 10rem;
   display: block;
-  width:30%;
+  width:330px;
   text-align: center;
   padding-bottom: 1%;
   box-shadow: +3px +3px +3px +3px rgb(228, 220, 220);
@@ -48,14 +49,14 @@
 .Agecal2{
   display: flex;
   flex-direction: column;
-  margin-top: 10%;
-  margin-bottom: 30%;
-  margin-left: 15%;
-  padding-bottom: 30%;
-  padding-top: 3%;
-  background-color: #11A79E;
-  width: 30%;
-  height: 90%;
+  margin-top: 10rem;
+  margin-bottom: 35rem;
+  margin-left: 15rem;
+  padding-bottom: 15rem;
+  padding-top: 3rem;
+  background-color: transparent;
+  width: 330px;
+  height: 40px;
   box-shadow: +3px +3px +3px +3px rgb(228, 219, 219);
 }
 
@@ -83,8 +84,7 @@
   padding-left: 3%;
   padding-top: 3%;
   padding-bottom: 3%;
-  /* margin: 8%; */
-  margin-right: 9%;
+  margin: 8%;
 }
 
 .age{
@@ -112,15 +112,15 @@
 .Agecal3{
   display: flex;
   flex-direction: column;
-  margin-left: 15%;
-  padding-bottom: 35%;
-  padding-top: 1%;
+  margin-left: 10rem;
+  padding-bottom: 17rem;
+  padding-top: 3rem;
   background-color: #11A79E;
-  width: 30%;
-  height: 90%;
+  width: 330px;
+  height: 40%;
   box-shadow: +3px +3px +3px +3px rgb(228, 219, 219);
-  margin-bottom: 30%;
-  margin-top: 10%;
+  margin-bottom: 20%;
+  margin-top: 10rem;
 }
 
 .calt{
@@ -131,7 +131,7 @@
   height: 30px;
   padding-left: 10%;
   padding-right:7%;
-  padding-bottom: 0%;
+  padding-bottom: 20%;
 }
 
 .Age{
